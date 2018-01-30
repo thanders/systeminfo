@@ -9,5 +9,5 @@ def main():
     print(platform.platform())
     return
 
-if __== '__main__':
+if __name__ == '__main__':
     main()
